@@ -9,4 +9,4 @@ The Food class was the food the snake would eat and the operation system for it.
 
 The Scoreboard class was everything related to the scoreboard, both the actual scoreboard and the keeping of score.
 
-Note - The Scoprebpard was later updated to keep highscores.
+Note - The Scoreboard was later updated to keep highscores.
